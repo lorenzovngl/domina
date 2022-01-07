@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="square_1A" type="id" />
+    <item name="square_1B" type="id" />
+    <item name="square_1C" type="id" />
+    <item name="square_1D" type="id" />
+    <item name="square_1E" type="id" />
+    <item name="square_1F" type="id" />
+    <item name="square_1G" type="id" />
+    <item name="square_1H" type="id" />
+
+    <item name="square_2A" type="id" />
+    <item name="square_2B" type="id" />
+    <item name="square_2C" type="id" />
+    <item name="square_2D" type="id" />
+    <item name="square_2E" type="id" />
+    <item name="square_2F" type="id" />
+    <item name="square_2G" type="id" />
+    <item name="square_2H" type="id" />
+
+    <item name="square_3A" type="id" />
+    <item name="square_3B" type="id" />
+    <item name="square_3C" type="id" />
+    <item name="square_3D" type="id" />
+    <item name="square_3E" type="id" />
+    <item name="square_3F" type="id" />
+    <item name="square_3G" type="id" />
+    <item name="square_3H" type="id" />
+
+    <item name="square_4A" type="id" />
+    <item name="square_4B" type="id" />
+    <item name="square_4C" type="id" />
+    <item name="square_4D" type="id" />
+    <item name="square_4E" type="id" />
+    <item name="square_4F" type="id" />
+    <item name="square_4G" type="id" />
+    <item name="square_4H" type="id" />
+
+    <item name="square_5A" type="id" />
+    <item name="square_5B" type="id" />
+    <item name="square_5C" type="id" />
+    <item name="square_5D" type="id" />
+    <item name="square_5E" type="id" />
+    <item name="square_5F" type="id" />
+    <item name="square_5G" type="id" />
+    <item name="square_5H" type="id" />
+
+    <item name="square_6A" type="id" />
+    <item name="square_6B" type="id" />
+    <item name="square_6C" type="id" />
+    <item name="square_6D" type="id" />
+    <item name="square_6E" type="id" />
+    <item name="square_6F" type="id" />
+    <item name="square_6G" type="id" />
+    <item name="square_6H" type="id" />
+
+    <item name="square_7A" type="id" />
+    <item name="square_7B" type="id" />
+    <item name="square_7C" type="id" />
+    <item name="square_7D" type="id" />
+    <item name="square_7E" type="id" />
+    <item name="square_7F" type="id" />
+    <item name="square_7G" type="id" />
+    <item name="square_7H" type="id" />
+
+    <item name="square_8A" type="id" />
+    <item name="square_8B" type="id" />
+    <item name="square_8C" type="id" />
+    <item name="square_8D" type="id" />
+    <item name="square_8E" type="id" />
+    <item name="square_8F" type="id" />
+    <item name="square_8G" type="id" />
+    <item name="square_8H" type="id" />
+</resources>

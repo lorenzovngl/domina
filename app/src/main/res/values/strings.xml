@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Domina</string>
+    <string name="load">Load game</string>
+    <string name="undo">Undo move</string>
+    <string name="save">Save game</string>
+    <string name="redo">Redo move</string>
+    <string name="new_game">New game</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="players">Players</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="men">Men</string>
+    <string name="kings">Kings</string>
+    <string name="cpu" translatable="false">CPU</string>
+    <string name="how_to_play">How to play</string>
+    <string name="coming_soon">Coming soon!</string>
+    <string name="first_move">First move</string>
+    <string name="resume_game">Resume game</string>
+    <string name="game_over">Game over</string>
+    <string name="the_winner_is">The winner is</string>
+    <string name="draw">Draw</string>
+    <string name="the_game_of_checkers">The game of checkers</string>
+    <string name="rules_of_checkers">Rules of checkers</string>
+    <string name="rules_intro">The game of checkers runs on a square grid of 8x8 cells and is played only on the dark squares. \nOn two opposite sides, occupying the three rows closest to the edge, there are the 12 pawns (called men) of the two players, usually one with the white pawns and the other with the black pawns. \nThe game begins with the first move that goes to the white. \nPlayers move alternating and during own turn the player can make one move.</string>
+    <string name="eating">Eating</string>
+    <string name="multiple_eating">Multiple eating</string>
+    <string name="end_of_the_game">End of the game</string>
+    <string name="rules_pawns">A man can only move in one of the diagonally adjacent boxes to the box he occupies in the direction of the opponent\'s lineup. That means they move only \"forward\".</string>
+    <string name="rules_kings">When a man reaches the farthest line, i.e. the edge of the opponent\'s lineup, becomes a \"king\". Kings move like men, but they can go backward or forward.\"</string>
+    <string name="rules_eating">A man or a king can eat an opposing man. \nA man can not eat an opposing king. \nA king can eat an opposing king. \nA man A can eat an opponent\'s man B if B is in a box that could be reached by A with a move if it was free. If the box C that you meet imagining that A does the same move twice in the same direction is free, then A can eat B and move to C. At this point, the man B is out of the game. \nKings behave like men when they eat the opponent\'s pieces, but they can move in all directions.</string>
+    <string name="rules_multiple_eating">When a man or a king arrives in a square after eating, if there are opponents in the adjacent squares, he can repeat this process two, three or more times.</string>
+    <string name="rules_end_of_game">A game ends when one of the two players finishes the pieces. The winner is the one who has managed to eat all the men and kings of the opponent. \nIt may happen that even if a player still has men at his disposal, he can no longer move: this typically happens when a men is blocked by a king. In this situation, the game is declared finished and the win goes to the player who has more kings and, if they are equal, who has more men. If even the men are equal, there is a draw.</string>
+    <string name="close">Close</string>
+    <string name="theme">Theme</string>
+    <string name="settings">Settings</string>
+    <string name="app_id" translatable="false">964964018266</string>
+    <string name="achievement_play_your_first_game">CgkI2tDZ4oocEAIQAQ</string>
+</resources>

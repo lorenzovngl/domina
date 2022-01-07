@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners
+                android:radius="10dp" />
+            <solid android:color="@color/lightSquareModern" />
+        </shape>
+    </item>
+    <item
+        android:top="0dp"
+        android:bottom="32dp"
+        android:right="32dp"
+        android:left="0dp">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners
+                        android:topLeftRadius="10dp" />
+                    <solid android:color="@color/darkSquareModern" />
+                    <size
+                        android:width="32dp"
+                        android:height="32dp" />
+                </shape>
+            </item>
+            <item android:drawable="@drawable/crown_one_modern" />
+        </layer-list>
+    </item>
+    <item
+        android:bottom="0dp"
+        android:top="32dp"
+        android:left="32dp"
+        android:right="0dp">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle" >
+                    <corners
+                        android:bottomRightRadius="10dp" />
+                    <solid android:color="@color/darkSquareModern" />
+                    <size
+                        android:width="32dp"
+                        android:height="32dp" />
+                </shape>
+            </item>
+            <item android:drawable="@drawable/circle_two_modern" />
+        </layer-list>
+    </item>
+</layer-list>

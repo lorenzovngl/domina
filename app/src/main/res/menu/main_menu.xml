@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_undo"
+        android:icon="@drawable/undo_disabled"
+        android:title="@string/undo"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_redo"
+        android:icon="@drawable/redo_disabled"
+        android:title="@string/redo"
+        app:showAsAction="ifRoom"/>
+    <!--<item
+        android:id="@+id/menu_new"
+        android:title="@string/new_match"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_save"
+        android:title="@string/save"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_load"
+        android:title="@string/load"
+        app:showAsAction="ifRoom"/>-->
+</menu>

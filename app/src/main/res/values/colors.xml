@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#774b26</color>
+    <color name="colorPrimaryDark">#472d16</color>
+    <color name="colorAccent">#96742a</color>
+
+    <color name="colorBorder">#68501d</color>
+    <color name="colorActive">#FFEB3B</color>
+    <color name="colorMove">#a3d63e</color>
+
+    <color name="colorTextLight">#ddd</color>
+    <color name="colorTextDark">#222</color>
+
+    <!-- Theme Classic -->
+    <color name="colorPrimaryClassic">#774b26</color>
+    <color name="colorPrimaryDarkClassic">#472d16</color>
+    <color name="colorAccentClassic">#96742a</color>
+
+    <color name="lightSquareClassic">#d8bda6</color>
+    <color name="darkSquareClassic">#604732</color>
+    <color name="pawnOneClassic">#ddd</color>
+    <color name="pawnTwoClassic">#222</color>
+
+    <!-- Theme Modern -->
+    <color name="colorPrimaryModern">#aaa</color>
+    <color name="colorPrimaryDarkModern">#222</color>
+    <color name="colorAccentModern">#ddd</color>
+
+    <color name="lightSquareModern">#ccc</color>
+    <color name="darkSquareModern">#333</color>
+    <color name="pawnOneModern">#aa2222</color>
+    <color name="pawnTwoModer">#2222aa</color>
+
+</resources>
